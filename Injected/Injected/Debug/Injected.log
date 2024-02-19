@@ -1,0 +1,3 @@
+﻿  dllmain.cpp
+c:\users\ise\desktop\ass2\injected\injected\dllmain.cpp(10): warning C4101: 'buff2': unreferenced local variable
+  Injected.vcxproj -> C:\Users\ISE\Desktop\Ass2\Injected\Debug\Injected.dll
