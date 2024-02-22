@@ -1,3 +1,5 @@
-﻿  dllmain.cpp
-c:\users\ise\desktop\ass2\injected\injected\dllmain.cpp(24): warning C4804: '>': unsafe use of type 'bool' in operation
-  Injected.vcxproj -> C:\Users\ISE\Desktop\Ass2\Injected\x64\Debug\Injected.dll
+﻿  pch.cpp
+  dllmain.cpp
+z:\malwareanalysis\manalysys\injected\injected\dllmain.cpp(24): warning C4804: '>': unsafe use of type 'bool' in operation
+  LINK : Z:\MalwareAnalysis\MAnalysys\Injected\x64\Debug\Injected.dll not found or not built by the last incremental link; performing full link
+  Injected.vcxproj -> Z:\MalwareAnalysis\MAnalysys\Injected\x64\Debug\Injected.dll
