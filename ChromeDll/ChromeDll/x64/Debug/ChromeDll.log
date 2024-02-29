@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Logger.cpp
+  Generating Code...
+z:\malwareanalysis\chromedll\chromedll\dllmain.cpp(347): warning C4715: 'MyNtQuerySystemInformation2': not all control paths return a value
+     Creating library Z:\MalwareAnalysis\ChromeDll\x64\Debug\ChromeDll.lib and object Z:\MalwareAnalysis\ChromeDll\x64\Debug\ChromeDll.exp
+  ChromeDll.vcxproj -> Z:\MalwareAnalysis\ChromeDll\x64\Debug\ChromeDll.dll

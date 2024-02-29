@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+c:\users\ise\source\repos\apihooking\apihooking\dllmain.cpp(192): error C2039: 'Rip': is not a member of '_CONTEXT'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(7548): note: see declaration of '_CONTEXT'
+c:\users\ise\source\repos\apihooking\apihooking\dllmain.cpp(550): warning C4244: 'initializing': conversion from 'const unsigned __int64' to 'DWORD', possible loss of data
